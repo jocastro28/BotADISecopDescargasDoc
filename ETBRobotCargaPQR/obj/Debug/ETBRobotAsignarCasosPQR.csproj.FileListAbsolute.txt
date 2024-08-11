@@ -1,0 +1,258 @@
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe.config
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\WebDriver.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\WindowScrape.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\WPFToolkit.dll
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\WebDriver.xml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.xml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csprojAssemblyReference.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.ResolveComReference.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.g.cs
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\MainWindow.g.cs
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\App.g.cs
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_Content.g.cs
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.lref
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\App.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\MainWindow.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.g.resources
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.Properties.Resources.resources
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.GenerateResource.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CoreCompileInputs.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CopyComplete
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\Downloads\Nueva carpeta\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe.config
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WindowScrape.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WPFToolkit.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.xml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.xml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.ResolveComReference.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\MainWindow.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\App.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_Content.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.lref
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\App.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\MainWindow.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.g.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.Properties.Resources.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.GenerateResource.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CoreCompileInputs.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CopyComplete
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe.config
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WindowScrape.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WPFToolkit.dll
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.xml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.xml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.AssemblyReference.cache
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.ResolveComReference.cache
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.g.cs
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\MainWindow.g.cs
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\App.g.cs
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_Content.g.cs
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.cache
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.lref
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\App.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\MainWindow.baml
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.g.resources
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.Properties.Resources.resources
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.GenerateResource.cache
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CoreCompileInputs.cache
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CopyComplete
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\Documents\JOSE CASTRO BACKUP\Backup jose 2023-05-10\PROYECTOS\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.AssemblyReference.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe.config
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\WebDriver.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\WindowScrape.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\WPFToolkit.dll
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\WebDriver.xml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.xml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.AssemblyReference.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.ResolveComReference.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\MainWindow.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\App.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_Content.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.lref
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\App.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\MainWindow.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.g.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.Properties.Resources.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.GenerateResource.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CoreCompileInputs.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CopyComplete
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.pdb
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe.config
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.pdb
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\WebDriver.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\WindowScrape.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\WPFToolkit.dll
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\WebDriver.xml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.xml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.g.cs
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\App.g.cs
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_Content.g.cs
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.cache
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.lref
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\App.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.g.resources
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.exe
+C:\Users\Usuario\Downloads\Bot_ADI\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.pdb
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe.config
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.pdb
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WindowScrape.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WPFToolkit.dll
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.xml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.xml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.g.cs
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\App.g.cs
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_Content.g.cs
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.lref
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\App.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.g.resources
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.exe
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.pdb
+C:\Users\Usuario\Downloads\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csprojAssemblyReference.cache
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe.config
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.exe
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\ETBRobotCargaPQR.pdb
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WindowScrape.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WPFToolkit.dll
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.xml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\bin\Debug\WebDriver.Support.xml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.AssemblyReference.cache
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.ResolveComReference.cache
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.Shared.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Styles.WPF.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\Themes\Metro\Theme.Colors.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.g.cs
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\MainWindow.g.cs
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\App.g.cs
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_Content.g.cs
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.cache
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR_MarkupCompile.lref
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\App.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\CerrandoWindow.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\MainWindow.baml
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.g.resources
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.Properties.Resources.resources
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.GenerateResource.cache
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CoreCompileInputs.cache
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotAsignarCasosPQR.csproj.CopyComplete
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.exe
+C:\Users\jmcas\Downloads\BotAdi\Bot_ADIll\ETBRobotCargaPQR\obj\Debug\ETBRobotCargaPQR.pdb

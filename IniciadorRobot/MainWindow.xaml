@@ -1,0 +1,15 @@
+﻿<Window x:Class="ETBRobotAsignarCasosPQR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ETBRobotAsignarCasosPQR"
+        mc:Ignorable="d"
+        Title="Abriendo" Height="150" Width="600" ShowInTaskbar="False" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" Background="Black" Opacity="0.8
+        " Topmost="True" Loaded="Window_Loaded" Initialized="Window_Initialized" Activated="Window_Activated">
+    <Grid>
+        <Image x:Name="img_logo" Height="64" Margin="100,39,436,47" VerticalAlignment="Center" Width="64" Source="robot.ico"/>
+        <Label Content="Abriendo Robot ..." HorizontalAlignment="Left" Margin="193,47,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Width="330" Background="{x:Null}" Foreground="White"/>
+
+    </Grid>
+</Window>

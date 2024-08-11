@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETBRobotAsignarCasosPQR", "ETBRobotCargaPQR\ETBRobotAsignarCasosPQR.csproj", "{58309A38-EE83-4141-BCB5-5F2A7DB3EB54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IniciadorRobot", "IniciadorRobot\IniciadorRobot.csproj", "{8DCAFC7E-D92C-4F4F-A24A-FC5B74E43A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58309A38-EE83-4141-BCB5-5F2A7DB3EB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58309A38-EE83-4141-BCB5-5F2A7DB3EB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58309A38-EE83-4141-BCB5-5F2A7DB3EB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58309A38-EE83-4141-BCB5-5F2A7DB3EB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCAFC7E-D92C-4F4F-A24A-FC5B74E43A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCAFC7E-D92C-4F4F-A24A-FC5B74E43A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCAFC7E-D92C-4F4F-A24A-FC5B74E43A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCAFC7E-D92C-4F4F-A24A-FC5B74E43A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD2BA42-8D5B-4D9D-AF95-BE1936BD544C}
+	EndGlobalSection
+EndGlobal

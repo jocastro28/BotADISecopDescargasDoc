@@ -1,0 +1,74 @@
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\bin\Debug\IniciadorRobot.exe.config
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\bin\Debug\IniciadorRobot.exe
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\bin\Debug\IniciadorRobot.pdb
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot.csprojAssemblyReference.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\MainWindow.g.cs
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\App.g.cs
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.lref
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\MainWindow.baml
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot.g.resources
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot.Properties.Resources.resources
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.GenerateResource.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.CoreCompileInputs.cache
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot.exe
+C:\Users\jocastro\Downloads\Nueva carpeta\IniciadorRobot\obj\Debug\IniciadorRobot.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\bin\Debug\IniciadorRobot.exe.config
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\bin\Debug\IniciadorRobot.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\bin\Debug\IniciadorRobot.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot.csprojAssemblyReference.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\MainWindow.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\App.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.lref
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\MainWindow.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot.g.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot.Properties.Resources.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.GenerateResource.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.CoreCompileInputs.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR\IniciadorRobot\obj\Debug\IniciadorRobot.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\bin\Debug\IniciadorRobot.exe.config
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\bin\Debug\IniciadorRobot.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\bin\Debug\IniciadorRobot.pdb
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.AssemblyReference.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\MainWindow.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\App.g.cs
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.lref
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\MainWindow.baml
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot.g.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot.Properties.Resources.resources
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.GenerateResource.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.CoreCompileInputs.cache
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot.exe
+C:\Users\jocastro\source\repos\ETBRobotAsignarCasosPQR2\IniciadorRobot\obj\Debug\IniciadorRobot.pdb
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\bin\Debug\IniciadorRobot.exe.config
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\bin\Debug\IniciadorRobot.exe
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\bin\Debug\IniciadorRobot.pdb
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\App.g.cs
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.cache
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.lref
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot.g.resources
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot.exe
+C:\Users\Usuario\Downloads\Bot_ADI\IniciadorRobot\obj\Debug\IniciadorRobot.pdb
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\bin\Debug\IniciadorRobot.exe.config
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\bin\Debug\IniciadorRobot.exe
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\bin\Debug\IniciadorRobot.pdb
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\App.g.cs
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot_MarkupCompile.lref
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot.g.resources
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot.exe
+C:\Users\Usuario\Downloads\Bot_ADIll\IniciadorRobot\obj\Debug\IniciadorRobot.pdb
